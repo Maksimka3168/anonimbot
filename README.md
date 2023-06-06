@@ -29,7 +29,7 @@ AnonimBot allows users to communicate inside Telegram, where each participant re
   ```
   TOKEN=Your_token
   ```
-  3. Run the main file.py using:
+  3. Run the main.py using:
   - applications (IDE)
   - consoles
   ```
