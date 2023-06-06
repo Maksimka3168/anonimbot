@@ -21,8 +21,6 @@ async def register_handlers(dispatcher: Dispatcher):
 
 async def set_command_handler(dispatcher: Dispatcher):
     await dispatcher.bot.set_my_commands([
-        types.BotCommand("stats", "📈 Статистика"),
-        types.BotCommand("profile", "👤 Мой профиль"),
         types.BotCommand('search', "🔎 Поиск собеседника"),
         types.BotCommand('search_stop', "⭕️ Остановить поиск"),
         types.BotCommand('next', "🗣 Найти другого собеседника"),
