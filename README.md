@@ -1,7 +1,5 @@
 <h1 align="center">AnonimBot</h1>
-<h2 align="center">
-## Description
+<h2 align="center"></h2>
 
-**NOW WITH DRAG AND DROP**
 
 <p align="center">
